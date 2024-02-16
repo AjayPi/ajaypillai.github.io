@@ -13,6 +13,4 @@
   * [Documentation using Confluence](./docs/other-documentation)
 * [Tutorial Examples](./tutorials/index)
   * [Wavefront for your K8 instance"](./tutorials/wavefront-desktop)
-* [About](./about/index)
-
 * [Contact](./contact/index)
