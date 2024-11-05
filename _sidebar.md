@@ -9,6 +9,8 @@
   * [Compute Infrastructure : An Introduction](./docs/mtfuji-intro)
   * [GitHub EMU Runners: showing mermaid diagrams](./docs/github-EMU-runners-hyperlink)
   * [Migration of GitHub Enterprise to EMU](./docs/migration-from-ghe)
+  * [Client Onboarding Guide API](./docs/client-onboarding-guide)
+  * [Retail Meta API - User Guide](./docs/Retail-Meta-API-user-guide.md)
   * [Status Page](./docs/status-page)
   * [Documentation using Confluence](./docs/other-documentation)
 * [Tutorial Examples](./tutorials/index)
