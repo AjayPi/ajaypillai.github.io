@@ -115,7 +115,7 @@ Before using the programme, you should validate its status is different from -1.
 
 ### Retrieve programme details
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px; width: 50%;">
+  <div style="flex: 1; padding: 10px;">
     <span style="color: #1059CD">
       <b>SHELL</b>   
    </br>
